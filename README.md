@@ -1,2 +1,2 @@
 # git-basics-project
-Első project a Codeberry weboldalkészítés gyakorlófeladatokban
+Első project a Codeberry weboldalkészítés gyakorlófeladatokban, javítva.
